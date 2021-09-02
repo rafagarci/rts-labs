@@ -18,4 +18,4 @@ python3 second.py
 
 ## Requirements
 
-Python 3.0 or older
+Python 3.0 or newer
